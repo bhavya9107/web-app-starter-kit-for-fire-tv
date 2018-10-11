@@ -14,6 +14,11 @@ A zip file of the Starter Kit example projects can be found here:<br> [https://a
 
 ## Setup
 -------------------
+## Table of Contents
+1. [Acquiring the source code](#acquiring-the-source-code)
+2. [Setting up the test server](#setting-up-the-test-server)
+3. [Setting up a test environment](#setting-up-a-test-environment)
+4. [Setup of the SASS script file](#setup-of-the-SASS-script-file)
 
 ### Acquiring the source code
 -------------------
